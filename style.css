@@ -1,0 +1,11 @@
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    background-color:antiquewhite;
+    width:100%
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
